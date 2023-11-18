@@ -16,6 +16,7 @@ public class _00_ArrayCheatSheet {
 		//   BE SURE TO USE THE ARRAY'S length VARIABLE
 		 for (int i = 0; i < 5; i++) {
 			   System.out.println(cool[i]);
+		 
 		 }
 		
 		//6. make an array of 50 integers
